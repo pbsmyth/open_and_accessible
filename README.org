@@ -1,4 +1,10 @@
-* Open and Accessible: A Critical Distinction
+#+OPTIONS: toc:nil
+
+* Open And Accessible: A Critical Distinction
+
+#+TOC: headlines
+
+* Introduction
 
 In theory, the goal of both open access and accessibility is the same: making knowledge available to all rather than to a privileged few. In practice, however, open access and accessibility can function quite differently. This workshop will help you to evaluate platforms for their openness and accessibility, making for effective and broadly available pedagogy.
 
