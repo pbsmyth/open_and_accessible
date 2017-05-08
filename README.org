@@ -1,4 +1,4 @@
-# #+OPTIONS: toc:nil
+#+OPTIONS: toc:nil
 
 * Open And Accessible: A Critical Distinction
 
