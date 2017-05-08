@@ -44,8 +44,7 @@ In scholarly publishing, there are two additional distinctions:
 -   Gold open access: an arrangement in which the publisher makes a work available on their own website or through their own distribution channels
 -   Green open access: an arrangement in which the author is allowed to host the work in a repository unrelated to the publisher, such as a university library
 
-In general, the shared goal of these various approaches to open access is to make works more widely available.
- In practice, though, the specific approach employed can matter a great deal.
+In general, the shared goal of these various approaches to open access is to make works more widely available. In practice, though, the specific approach employed can matter a great deal.
 
 # Intersections
 
@@ -120,10 +119,4 @@ Which of these are accessible? Which of these are open?
 
 # Resources
 
-[Google Drive Accessibility](https://support.google.com/drive/topic/2650510?hl=en&ref_topic=2650510&visit_id=1-636298062499400622-1312580&rd=1)  
-[Blackboard Accessibility](http://accessibility.colostate.edu/blackboard.cfm)  
-[YouDescribe](http://www.ski.org/project/youdescribe)  
-[Divirsity on Wikipedia](https://www.theatlantic.com/technology/archive/2013/10/90-of-wikipedias-editors-are-male-heres-what-theyre-doing-about-it/280882/)  
-[Blind Hackers](https://www.youtube.com/watch?v=W8_O3joo4aU)  
-[OER Commons](https://www.oercommons.org/)  
-[CUNY Academic Commons](https://commons.gc.cuny.edu/)
+[Google Drive Accessibility](https://support.google.com/drive/topic/2650510?hl=en&ref_topic=2650510&visit_id=1-636298062499400622-1312580&rd=1) [Blackboard Accessibility](http://accessibility.colostate.edu/blackboard.cfm) [YouDescribe](http://www.ski.org/project/youdescribe) [Divirsity on Wikipedia](https://www.theatlantic.com/technology/archive/2013/10/90-of-wikipedias-editors-are-male-heres-what-theyre-doing-about-it/280882/) [Blind Hackers](https://www.youtube.com/watch?v=W8_O3joo4aU) [OER Commons](https://www.oercommons.org/) [CUNY Academic Commons](https://commons.gc.cuny.edu/)
