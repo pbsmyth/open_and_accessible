@@ -2,7 +2,7 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgheadline1">1. Open And Accessible: A Critical Distinction&#xa0;&#xa0;&#xa0;<span class="tag"><span class="toc">toc</span></span></a></li>
+<li><a href="#orgheadline1">1. Open And Accessible: A Critical Distinction</a></li>
 <li><a href="#orgheadline2">2. Introduction</a></li>
 <li><a href="#orgheadline3">3. What is accessibility?</a></li>
 <li><a href="#orgheadline4">4. What is open access?</a></li>
@@ -22,7 +22,31 @@
 </div>
 </div>
 
-# Open And Accessible: A Critical Distinction     :toc:<a id="orgheadline1"></a>
+# Open And Accessible: A Critical Distinction<a id="orgheadline1"></a>
+
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#orgheadline1">1. Open And Accessible: A Critical Distinction</a></li>
+<li><a href="#orgheadline2">2. Introduction</a></li>
+<li><a href="#orgheadline3">3. What is accessibility?</a></li>
+<li><a href="#orgheadline4">4. What is open access?</a></li>
+<li><a href="#orgheadline5">5. Intersections</a></li>
+<li><a href="#orgheadline6">6. Theory vs. Practice</a></li>
+<li><a href="#orgheadline7">7. Open or Accessible?</a></li>
+<li><a href="#orgheadline8">8. Tools and platforms</a></li>
+<li><a href="#orgheadline9">9. How can I be more&#x2026;</a>
+<ul>
+<li><a href="#orgheadline10">9.1. Accessible</a></li>
+<li><a href="#orgheadline11">9.2. Open</a></li>
+<li><a href="#orgheadline12">9.3. Both</a></li>
+</ul>
+</li>
+<li><a href="#orgheadline13">10. Resources</a></li>
+</ul>
+</div>
+</div>
 
 # Introduction<a id="orgheadline2"></a>
 

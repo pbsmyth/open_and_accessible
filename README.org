@@ -1,6 +1,8 @@
 # #+OPTIONS: toc:nil
 
-* Open And Accessible: A Critical Distinction				:toc:
+* Open And Accessible: A Critical Distinction
+
+#+TOC: headlines
 
 * Introduction
 
