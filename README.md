@@ -1,8 +1,5 @@
----
-layout: default
-title: Open and Accessible
----
 
+<title>Open and Accessible</title>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
