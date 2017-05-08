@@ -1,6 +1,2 @@
 theme: jekyll-theme-tactile
-defaults:
-  -
-    values:
-      title: "Open and Accessible"
-
+title: "Open and Accessible"
