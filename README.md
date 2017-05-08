@@ -120,10 +120,10 @@ Which of these are accessible? Which of these are open?
 
 # Resources
 
-[Google Drive Accessibility](https://support.google.com/drive/topic/2650510?hl=en&ref_topic=2650510&visit_id=1-636298062499400622-1312580&rd=1)\\
-[Blackboard Accessibility](http://accessibility.colostate.edu/blackboard.cfm)\\
-[YouDescribe](http://www.ski.org/project/youdescribe)\\
-[Divirsity on Wikipedia](https://www.theatlantic.com/technology/archive/2013/10/90-of-wikipedias-editors-are-male-heres-what-theyre-doing-about-it/280882/)\\
-[Blind Hackers](https://www.youtube.com/watch?v=W8_O3joo4aU)\\
-[OER Commons](https://www.oercommons.org/)\\
-[CUNY Academic Commons](https://commons.gc.cuny.edu/)\\
+[Google Drive Accessibility](https://support.google.com/drive/topic/2650510?hl=en&ref_topic=2650510&visit_id=1-636298062499400622-1312580&rd=1)  
+[Blackboard Accessibility](http://accessibility.colostate.edu/blackboard.cfm)  
+[YouDescribe](http://www.ski.org/project/youdescribe)  
+[Divirsity on Wikipedia](https://www.theatlantic.com/technology/archive/2013/10/90-of-wikipedias-editors-are-male-heres-what-theyre-doing-about-it/280882/)  
+[Blind Hackers](https://www.youtube.com/watch?v=W8_O3joo4aU)  
+[OER Commons](https://www.oercommons.org/)  
+[CUNY Academic Commons](https://commons.gc.cuny.edu/)
