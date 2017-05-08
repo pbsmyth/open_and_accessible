@@ -1,5 +1,3 @@
-
-<title>Open and Accessible</title>
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
@@ -153,3 +151,4 @@ Which of these are accessible? Which of these are open?
 [Blind Hackers](https://www.youtube.com/watch?v=W8_O3joo4aU)  
 [OER Commons](https://www.oercommons.org/)  
 [CUNY Academic Commons](https://commons.gc.cuny.edu/)
+<title>Open and Accessible</title>
