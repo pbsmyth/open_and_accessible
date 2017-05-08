@@ -1,6 +1,3 @@
----
-title: Open and Accessible: A Critical Distinction
----
 
 <div id="table-of-contents">
 <h2>Table of Contents</h2>
